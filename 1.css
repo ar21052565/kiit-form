@@ -1,0 +1,79 @@
+.class1 {
+    font-size: 16px;
+    color: rgb(22, 99, 10);
+    border: solid 2px;
+    width: 430px;
+    border-radius: 30px;
+    background-color: red;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* body{
+    text-align: center;
+    border: solid 2px green;
+    width: 432px;
+    background-image: url(img1.png);
+    background-repeat: no-repeat;
+    background-position: 700px bottom;
+    background-size: 350px;
+} */
+body {
+    
+    text-align: center;
+    border: solid 2px red;
+    height: 767px;
+     background-image: url(img1.png);
+    background-repeat: no-repeat;
+    background-position:  120px 318px ;
+    background-size: 350px; 
+}
+/* #id13{
+    background-image: url(kiit2.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+} */
+
+form {
+
+    border-top: solid 2px rgb(220, 28, 28);
+    width: 432px;
+    background-color: rgb(122, 148, 76);
+}
+
+#id10 {
+    /* background-image: url(img1.png);
+    background-repeat: no-repeat; */
+    text-align: center;
+    border: solid 2px green;
+    width: 432px;
+    margin: 55px 55px 100px 810px;
+}
+
+#id11 {
+    background-color: darkcyan;
+
+
+}
+
+id12 {
+    border: solid 2px black;
+
+}
+.font-effect-fire{
+    border: dashed 3px red;
+    padding: 15px 15px 15px 15px;
+    margin :20px 200px 20px 100px;
+}
+.cse6
+{
+    cursor:pointer;
+}
+#cse1:hover{
+    background-color: blue;
+}
+#cse2:hover{
+    background-color: red;
+}
